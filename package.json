@@ -1,0 +1,12 @@
+{
+  "name": "drum-machine",
+  "version": "1.0.0",
+  "description": "A keyboard that play random sounds",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Web Calcs",
+  "license": "ISC"
+}
